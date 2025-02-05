@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MJ-star-tech
-- 👀 I’m interested in creating solutions
+- 👀 I’m interested in creating solutions for users!
 - 🌱 I’m currently learning Fullstack development and Cyber/Cloud security
 - 💞️ I’m looking to collaborate on realife projects soon...
-- 📫 You cann reach me through gmail: miashine46@gmail.com 
+- 📫 You can reach me through gmail: miashine46@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact about me: I love Christ😄
 
